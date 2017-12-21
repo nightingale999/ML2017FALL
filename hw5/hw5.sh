@@ -1,0 +1,1 @@
+python3 mainTA_submit.py $1 $2 ./model_12202040_6214.h5
