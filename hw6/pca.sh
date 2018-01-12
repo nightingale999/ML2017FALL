@@ -1,0 +1,1 @@
+python3 mainPCA.py $1 $2
