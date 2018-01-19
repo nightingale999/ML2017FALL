@@ -1,0 +1,1 @@
+python3 ./training.py -mp $1 -td $2 -tc $3 
