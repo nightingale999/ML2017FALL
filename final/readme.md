@@ -1,6 +1,5 @@
 # 程式使用教學
 
-## Usage
 ### Training
 > bash train.sh [save model path] [train data path] [training caption path]
 >> Example:
