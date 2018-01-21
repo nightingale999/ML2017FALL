@@ -2,6 +2,7 @@
 
 ### Predicting
 > final.sh 位於 /src底下，請先cd進入src再使用以下指令
+>
 > bash final.sh [save result path] [test data] [test csv]
 >> Example:
 >>> bash ./final.sh ./output.csv ./test.data ./test.csv
