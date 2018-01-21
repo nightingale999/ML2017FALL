@@ -6,10 +6,10 @@
 >>> bash ./final.sh ./output.csv ./test.data ./test.csv
 
 # 程式執行環境
-..* Python 3.5.2
+* Python 3.5.2
 
-..* Keras 2.0.9
+* Keras 2.0.9
 
-..* tensorflow-gpu 1.3.0
+* tensorflow-gpu 1.3.0
 
-..* numpy 1.14.0
+* numpy 1.14.0
