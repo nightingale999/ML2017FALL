@@ -8,7 +8,7 @@
 >>> bash ./final.sh ./output.csv ./test.data ./test.csv
 
 # 程式執行環境
-* Python 3.5.2
+* Python 3.6.3
 * Keras 2.0.9
-* tensorflow-gpu 1.3.0
-* numpy 1.14.0
+* pytorch 0.3.0.post4
+* numpy 1.13.3
